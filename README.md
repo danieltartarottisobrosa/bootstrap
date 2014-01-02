@@ -71,3 +71,7 @@ Os seguintes browsers em sua última versão serão suportados:
 * Chrome 26
 * Safari iOS 6
 * Firefox Android 20
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/danieltartarottisobrosa/bootstrap/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
